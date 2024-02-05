@@ -1,1 +1,5 @@
-# Google-IT-Automation-with-Python-
+# Google-IT-Automation-with-Python
+As a final project in the Google IT Automation with Python Training, I successfully developed a comprehensive Python script for an online fruit store. My responsibilities included processing catalog information received from suppliers in the form of large images and text descriptions. The script efficiently converted images to smaller JPEG files and transformed text into HTML format, showcasing the product image and description. The HTML content was seamlessly uploaded to our existing Django web service.
+To enhance the automation process, I implemented a Python script that summarized and processed sales data into different categories, generating a PDF document containing the names and total weights of the uploaded fruits. This PDF was automatically sent to the suppliers via email, providing them with a detailed summary of the uploaded products.
+Additionally, I incorporated a health-check script to monitor the system's status in parallel with the automation process. If any issues were detected, the system would send an email alert, ensuring timely response and resolution.
+This Repository also contain the python script used to achieve this task.
